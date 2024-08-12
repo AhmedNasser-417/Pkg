@@ -1,0 +1,1 @@
+(self.webpackChunkapp_studio_enterprise_omnichannel_messaging=self.webpackChunkapp_studio_enterprise_omnichannel_messaging||[]).push([[3555],{93555:(h,t,e)=>{e.r(t),e.d(t,{TranslateHttpLoader:()=>n});class n{constructor(s,i="/assets/i18n/",a=".json"){this.http=s,this.prefix=i,this.suffix=a}getTranslation(s){return this.http.get(`${this.prefix}${s}${this.suffix}`)}}}}]);

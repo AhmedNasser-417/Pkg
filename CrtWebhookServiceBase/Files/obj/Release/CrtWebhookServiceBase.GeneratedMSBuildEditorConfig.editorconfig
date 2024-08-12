@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CrtWebhookServiceBase
+build_property.ProjectDir = B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\

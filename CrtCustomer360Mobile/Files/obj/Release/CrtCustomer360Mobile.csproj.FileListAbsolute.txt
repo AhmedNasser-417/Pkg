@@ -1,0 +1,9 @@
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\Bin\CrtCustomer360Mobile.dll
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\Bin\CrtCustomer360Mobile.pdb
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.csproj.AssemblyReference.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.GeneratedMSBuildEditorConfig.editorconfig
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.AssemblyInfoInputs.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.AssemblyInfo.cs
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.csproj.CoreCompileInputs.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.dll
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360Mobile\Files\obj\Release\CrtCustomer360Mobile.pdb

@@ -1,0 +1,1 @@
+(self.webpackChunkapp_studio_enterprise_relationship_diagram=self.webpackChunkapp_studio_enterprise_relationship_diagram||[]).push([[3555],{93555:(n,s,i)=>{i.r(s),i.d(s,{TranslateHttpLoader:()=>e});class e{constructor(t,a="/assets/i18n/",r=".json"){this.http=t,this.prefix=a,this.suffix=r}getTranslation(t){return this.http.get(`${this.prefix}${t}${this.suffix}`)}}}}]);

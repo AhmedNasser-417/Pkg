@@ -1,0 +1,9 @@
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\Bin\DevClassic.dll
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\Bin\DevClassic.pdb
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.csproj.AssemblyReference.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.GeneratedMSBuildEditorConfig.editorconfig
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.AssemblyInfoInputs.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.AssemblyInfo.cs
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.csproj.CoreCompileInputs.cache
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.dll
+B:\8.1.4.2824_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.pdb

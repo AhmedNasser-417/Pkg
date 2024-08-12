@@ -1,0 +1,14 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotAction/CopilotAction.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotAction/CopilotAction.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotActionType/CopilotActionType.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotActionType/CopilotActionType.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotIntent/CopilotIntent.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotIntent/CopilotIntent.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotIntentStatus/CopilotIntentStatus.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotIntentStatus/CopilotIntentStatus.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotMessageEnt/CopilotMessageEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotMessageEnt/CopilotMessageEnt.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotMessageRoleEnt/CopilotMessageRoleEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotMessageRoleEnt/CopilotMessageRoleEnt.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotRequestEnt/CopilotRequestEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotRequestEnt/CopilotRequestEnt.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotSessionEnt/CopilotSessionEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotSessionEnt/CopilotSessionEnt.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotSessionStateEnt/CopilotSessionStateEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotSessionStateEnt/CopilotSessionStateEnt.cs')" />
+		<Compile Include="$(PkgPath)/CrtCopilot/Schemas/CopilotToolCallEnt/CopilotToolCallEnt.cs" Condition="Exists('$(PkgPath)/CrtCopilot/Schemas/CopilotToolCallEnt/CopilotToolCallEnt.cs')" />
+	</ItemGroup>
+</Project>

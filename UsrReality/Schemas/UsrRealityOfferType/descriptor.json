@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b7f6d85e-52bd-46a3-b0a8-5986a4312a1c",
+    "Name": "UsrRealityOfferType",
+    "ModifiedOnUtc": "\/Date(1723573308000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Reality Offer Type(FreedomUI)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c1320229-711e-4b65-a9b3-a9f77b56b575"
+        },
+        {
+          "SchemaColumnUId": "13aad544-ec30-4e76-a373-f0cff3202e24",
+          "Value": "DmytroSuperFunction"
+        },
+        {
+          "SchemaColumnUId": "e04c95c8-b8d3-5e4d-c0b4-789430916f33",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1723454636402+0200)\/"
+        }
+      ]
+    }
+  ]
+}

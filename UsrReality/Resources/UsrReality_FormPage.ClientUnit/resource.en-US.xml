@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reality form page" />
+			<Item Name="LocalizableStrings.addRecord_0twjwr0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_q9xw81c_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vztvehz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.Button_zx5ipoy_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.NumberInput_kslwjeq_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
+		</Items>
+	</Group>
+</Resources>

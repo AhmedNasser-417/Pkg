@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1722762449000)\/",
+    "ModifiedOnUtc": "\/Date(1722917112000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -99,6 +99,11 @@
         "UId": "148ab29f-ee31-44cb-9d3d-883c69ca3d1e",
         "PackageVersion": "7.8.0",
         "Name": "SspKnowledgeBase"
+      },
+      {
+        "UId": "1587340f-f378-46eb-ba8e-8fccbe60df78",
+        "Name": "UsrReality",
+        "Type": 1
       },
       {
         "UId": "16d6c866-8a77-5b2f-aec6-9147c219f4e1",

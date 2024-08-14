@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reality form page" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="لا يمكن أن تقل المساحة عن 100 قدم مربع" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="السعر لا يمكن أن يكون أقل من 50.0" />
+		</Items>
+	</Group>
+</Resources>
